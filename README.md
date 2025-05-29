@@ -1,39 +1,37 @@
 <h1 align="center">👋 ¡Hola! Soy Leonardo </h1>
 
-### 💻 &nbsp;Sobre Mí 😃
+---
+
+### 💻 Sobre Mí 😃
 💻 **Estudiante de Ingeniería de Software** apasionado por el desarrollo web y la integración de diversos **microservicios**, tanto en el **backend** como en el **frontend**. Me encanta aprender nuevas tecnologías y mejorar mis habilidades. 🚀
 
+---
+
 ### 🛠️ Tecnologías y herramientas
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,express,nodejs,redux,mysql,github,firebase,py,bash,ubuntu)](https://skillicons.dev)
 
-#### 🌐 **Frontend**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux)](https://skillicons.dev)
+</div>
 
-#### 🏗️ **Backend**
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+---
 
-#### 🗄️ **Bases de Datos & Servicios en la Nube**
-[![My Skills](https://skillicons.dev/icons?i=mysql,firebase)](https://skillicons.dev)
+### 📊 GitHub Stats :octocat:
+<div align="center">
 
-#### 🛠️ **Herramientas y Sistemas**
-[![My Skills](https://skillicons.dev/icons?i=github,ubuntu,bash,py)](https://skillicons.dev)
+<img  title="🔥 Streak stats" alt="Leo64xl streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Leo64xl&theme=dark&hide_border=false" />
 
-<h2>GitHub :octocat:</h2>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Leo64xl&theme=dark&hide_border=false&langs_count=10"/>
 
-<!--- stats (start) -->
-<p align="center">
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
+</div>
 
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Leo64xl streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Leo64xl&theme=dark&hide_border=false" /> 
+---
 
-</td>
-<td width="40%" align="center">
+### 🏆 Trofeos
+<div align="center">
 
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Leo64xl&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy" title="GitHub Trophies">
+<img src="https://github-profile-trophy.vercel.app/?username=Leo64xl&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+</a>
 
-</td>
-</tr>
-</table>
-</p>
-<!--- stats (end) -->
+</div>
