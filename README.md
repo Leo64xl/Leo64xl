@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Leonardo </h1>
+<h1 align="center">¡Hola! Soy Leonardo 👋</h1>
 
 ### Sobre Mí 😃
 💻 Estudiante de Ingeniería de Software apasionado por el desarrollo web y la integración de diversos microservicios, tanto en el backend como en el frontend. Me encanta aprender nuevas tecnologías y mejorar mis habilidades. 🚀
