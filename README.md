@@ -11,6 +11,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,react,redux,nodejs,express,mysql,firebase,py,bash,linux)](https://skillicons.dev)
 
+<br></br>
+
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
