@@ -3,8 +3,7 @@
 ### Sobre Mí 😃
 💻 Soy Estudiante de Ingeniería de Software apasionado por el desarrollo web y en la exploracion de diversas tecnologias. Me motiva la innovación y la mejora continua, y disfruto enfrentando desafíos que me permitan fortalecer mis habilidades técnicas y creativas. 🚀
 
-
-___
+_
 
 ### Tecnologías y herramientas 🛠️
 
