@@ -4,7 +4,7 @@
 💻 **Estudiante de Ingeniería de Software** apasionado por el desarrollo web y la integración de diversos **microservicios**, tanto en el **backend** como en el **frontend**. Me encanta aprender nuevas tecnologías y mejorar mis habilidades. 🚀
 
 ### 🛠️ Tecnologías y herramientas
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,express,nodejs,redux,mysql,firebase,github,py,bash,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mysql,firebase,github,py,bash,linux)](https://skillicons.dev)
 
 <h2>GitHub :octocat:</h2>
 
