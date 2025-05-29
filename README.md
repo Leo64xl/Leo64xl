@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  👋 ¡Hola! Soy Leonardo / Leo64xl
+  👋 ¡Hola! Soy Leonardo / Leo64x
 </h1>
 
 ### Sobre Mí 😃
