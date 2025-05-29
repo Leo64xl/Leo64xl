@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 ¡Hola! Soy Leonardo</h1>
 
 ### Sobre Mí 😃
-💻 Estudiante de Ingeniería de Software apasionado por el desarrollo web y en exploracion de diversas tecnologias. Me encanta aprender y mejorar mis habilidades. 🚀
+💻 Estudiante de Ingeniería de Software apasionado por el desarrollo web y en exploracion de diversas tecnologias. Me motiva la innovación y la mejora continua, y disfruto enfrentando desafíos que me permitan fortalecer mis habilidades técnicas y creativas. 🚀
 
 ### Tecnologías y herramientas 🛠️
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,react,redux,nodejs,express,mysql,firebase,py,bash,linux)](https://skillicons.dev)
