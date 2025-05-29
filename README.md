@@ -9,7 +9,7 @@
 
 🔎 Me gusta explorar diversas tecnologías y fortalecer mis conocimientos con nuevos aprendizajes. Mi fuerte es el desarrollo web, integrando frontend, backend y su respectiva base de datos para crear aplicaciones eficientes y escalables que cumplan con los requerimientos propuestos. 🔥
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,git,redux,react,nodejs,express,mysql,firebase,py,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,git,redux,react,nodejs,express,mysql,firebase,py,ubuntu)](https://skillicons.dev)
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
