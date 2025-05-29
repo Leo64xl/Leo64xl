@@ -6,7 +6,7 @@
 ### 🛠️ Tecnologías y herramientas
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mysql,firebase,github,ubuntu,bash,py)](https://skillicons.dev)
 
-## 🏆 GitHub :octocat:
+## GitHub :octocat:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leo64xl&theme=dark&hide_border=false" />
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Leo64xl&theme=dark&hide_border=false&langs_count=10"/>
