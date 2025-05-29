@@ -7,7 +7,7 @@
 <br></br>
 ### Tecnologías y herramientas 🛠️
 
-🔎 Me gusta explorar diversas tecnologías y fortalecer mis conocimientos con nuevos aprendizajes. Mi fuerte es el desarrollo web, integrando frontend, backend y su respectiva base de datos para crear aplicaciones eficientes y escalables que cumplan con los requerimientos propuestos. ✨
+🔎 Me gusta explorar diversas tecnologías y fortalecer mis conocimientos con nuevos aprendizajes. Mi fuerte es el desarrollo web, integrando frontend, backend y su respectiva base de datos para crear aplicaciones eficientes y escalables que cumplan con los requerimientos propuestos. 🔥
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,react,redux,nodejs,express,mysql,firebase,py,bash,linux)](https://skillicons.dev)
 
