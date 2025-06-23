@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola+!+👋;+Me+llamo+Leo!;" />
 
-<h2>📖 | Acerca de mí</h2> 
+<h2>📖 | Sobre mí</h2> 
 💻 Soy Estudiante de Ingeniería de Software apasionado por el desarrollo web y en la exploracion de diversas tecnologias. Me motiva la innovación y la mejora continua, y disfruto enfrentando desafíos que me permitan fortalecer mis habilidades técnicas y creativas. 
 <br></br>
 
