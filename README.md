@@ -7,6 +7,7 @@
 
 <h1 align="center"> 
   👋 ¡Hola! Soy Leonardo / Leo64xl
+  <br>
 </h1>
 
 ### Sobre Mí 😃
