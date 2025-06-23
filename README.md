@@ -1,5 +1,5 @@
 <!-- Encabezado animado -->
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola+!+👋;+Me+llamo+Leo!;" />
 </p>
 
@@ -11,6 +11,7 @@
 <!-- Tecnologías -->
 <h2>🛠️ | Tecnologías y herramientas </h2>
 Me gusta explorar diversas tecnologías y fortalecer mis conocimientos con nuevos aprendizajes. 🔎  
+<br></br>
 <br>
 <p>
   <a href="https://skillicons.dev">
