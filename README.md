@@ -1,20 +1,20 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola+!+👋;+Soy+Leonardo!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola+!+👋;+Me+llamo+Leonardo!;" />
 
 <h2>📖 | Acerca de mí</h2> 
 💻 Soy Estudiante de Ingeniería de Software apasionado por el desarrollo web y en la exploracion de diversas tecnologias. Me motiva la innovación y la mejora continua, y disfruto enfrentando desafíos que me permitan fortalecer mis habilidades técnicas y creativas. 
 <br></br>
+
+<h2>🛠️ | Tecnologías y herramientas </h2>
+
+Me gusta explorar diversas tecnologías y fortalecer mis conocimientos con nuevos aprendizajes. 🔎
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,git,redux,react,nodejs,express,mysql,firebase,py,ubuntu,bash)](https://skillicons.dev)
 
 <div align="center">
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
-
-<h2>🛠️ | Tecnologías y herramientas </h2>
-
-🔎 Me gusta explorar diversas tecnologías y fortalecer mis conocimientos con nuevos aprendizajes. 🔥
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,git,redux,react,nodejs,express,mysql,firebase,py,ubuntu,bash)](https://skillicons.dev)
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
