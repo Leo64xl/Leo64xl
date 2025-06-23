@@ -20,7 +20,7 @@
 <td width="60%" align="center">
 <div>
 
-  ## 📊 &nbsp;My activities
+  ## 📊 &nbsp;Mi Actividad
   <a href="https://github.com/Leo64xl">
     <img width=450 height=170 align="center" alt="Leo64xl" src="https://github-readme-stats.vercel.app/api?username=Leo64xl&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
