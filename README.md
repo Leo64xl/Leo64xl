@@ -5,15 +5,19 @@
 
 </div>
 
-<h1 align="center"> 
-   ¡Hola! Soy Leonardo / Leo64xl
-  <br>
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola+!+👋;+Me+llamo+Leonardo!;" />
 
-### Sobre Mí 😃
-💻 Soy Estudiante de Ingeniería de Software apasionado por el desarrollo web y en la exploracion de diversas tecnologias. Me motiva la innovación y la mejora continua, y disfruto enfrentando desafíos que me permitan fortalecer mis habilidades técnicas y creativas. 🚀
+<h2>📖 | Acerca de mí</h2> 
+💻 Soy Estudiante de Ingeniería de Software apasionado por el desarrollo web y en la exploracion de diversas tecnologias. Me motiva la innovación y la mejora continua, y disfruto enfrentando desafíos que me permitan fortalecer mis habilidades técnicas y creativas. 
 <br></br>
-### Tecnologías y herramientas 🛠️
+
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Leo64xl/Leo64xl/output/github-contribution-grid-snake.svg" />
+  <br/>
+</div>
+
+<h2>🛠️ | Tecnologías y herramientas </h2>
 
 🔎 Me gusta explorar diversas tecnologías y fortalecer mis conocimientos con nuevos aprendizajes. 🔥
 
@@ -47,13 +51,4 @@
  
 
 </div>
-
-<!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
-
-<div>
-  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
-
-
-
 
