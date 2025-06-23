@@ -33,7 +33,7 @@ Me gusta explorar diversas tecnologías y fortalecer mis conocimientos con nuevo
 <div>
 <b>
   
-  ## 📫 &nbsp;Mi contacto
+  <h2></h2> 📫 &nbsp;Mi contacto </h2>
 
 [![LinkedIn](https://img.shields.io/badge/Leonardo%20Portela-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-portela-9814a6308) 
 [![Instagram](https://img.shields.io/badge/Leonardo%20Portela-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leo_r640) 
