@@ -21,7 +21,7 @@ Me gusta explorar diversas tecnologías y fortalecer mis conocimientos con nuevo
 
 <!-- GitHub Stats -->
 <h2>:octocat: | GitHub</h2>
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/Leo64xl">
