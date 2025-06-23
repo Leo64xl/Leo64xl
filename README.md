@@ -31,10 +31,11 @@ Me gusta explorar diversas tecnologías y fortalecer mis conocimientos con nuevo
 <!--- stats (end) -->
 
 <div>
-
+<b>
+  
   ## 📫 &nbsp;Mi contacto
 
-<b>[![LinkedIn](https://img.shields.io/badge/Leonardo%20Portela-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-portela-9814a6308) 
+[![LinkedIn](https://img.shields.io/badge/Leonardo%20Portela-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-portela-9814a6308) 
 [![Instagram](https://img.shields.io/badge/Leonardo%20Portela-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leo_r640) 
 [![Facebook](https://img.shields.io/badge/Leonardo%20Portela-26A5E4?logo=Facebook&logoColor=fff&style=flat)](https://facebook.com/LeoXtel)</b>
 
