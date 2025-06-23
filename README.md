@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center"> 
-  👋 ¡Hola! Soy Leonardo / Leo64xl
+   ¡Hola! Soy Leonardo / Leo64xl
   <br>
 </h1>
 
@@ -17,7 +17,7 @@
 
 🔎 Me gusta explorar diversas tecnologías y fortalecer mis conocimientos con nuevos aprendizajes. 🔥
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,git,redux,react,nodejs,express,mysql,firebase,py,linux,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,git,redux,react,nodejs,express,mysql,firebase,py,ubuntu,bash)](https://skillicons.dev)
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
