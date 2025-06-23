@@ -7,7 +7,7 @@
 <br></br>
 ### Tecnologías y herramientas 🛠️
 
-🔎 Me gusta explorar diversas tecnologías y fortalecer mis conocimientos con nuevos aprendizajes. Mi fuerte es el desarrollo web, integrando frontend, backend y su respectiva base de datos para crear aplicaciones eficientes y escalables que cumplan con los requerimientos propuestos. 🔥
+🔎 Me gusta explorar diversas tecnologías y fortalecer mis conocimientos con nuevos aprendizajes. 🔥
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,git,redux,react,nodejs,express,mysql,firebase,py,linux,bash)](https://skillicons.dev)
 
@@ -18,29 +18,15 @@
 <table align="left">
 <tr border="none">
 <td width="60%" align="center">
+<div>
 
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Leo64xl&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="40%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Leo64xl&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Leo64xl&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+  ## 📊 &nbsp;My activities
+  <a href="https://github.com/Leo64xl">
+    <img width=450 height=170 align="center" alt="Leo64xl" src="https://github-readme-stats.vercel.app/api?username=Leo64xl&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/Leo64xl">
+    <img align="center" alt="Leo64xl" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo64xl&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
 </div>
-<!--- trophy (start) -->
-
-
 </p>        
 <!--- stats (end) -->
