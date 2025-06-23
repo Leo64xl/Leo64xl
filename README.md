@@ -1,3 +1,10 @@
+<div>
+🔴🟡🟢
+
+<br>
+
+</div>
+
 <h1 align="center"> 
   👋 ¡Hola! Soy Leonardo / Leo64xl
 </h1>
@@ -28,4 +35,20 @@
   </a>
 </div>
 </p>        
+
 <!--- stats (end) -->
+
+<div>
+
+  ## 📫 &nbsp;Mi contacto
+
+  
+ 
+
+</div>
+
+<div>
+  <img src="https://github.com/Leo64xl/Leo64xl/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
+
+
