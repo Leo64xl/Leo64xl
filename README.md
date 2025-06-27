@@ -44,7 +44,7 @@ Me gusta explorar diversas tecnologías y fortalecer mis conocimientos con nuevo
       <img src="https://img.shields.io/badge/Leonardo%20Portela-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://instagram.com/leo_r640">
-      <img src="https://img.shields.io/badge/leo_r640%20-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+      <img src="https://img.shields.io/badge/leo-r640%20-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://facebook.com/LeoXtel">
       <img src="https://img.shields.io/badge/Leonardo%20Portela-26A5E4?logo=Facebook&logoColor=white" alt="Facebook" />
