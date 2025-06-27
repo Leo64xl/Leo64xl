@@ -1,6 +1,6 @@
 <!-- Encabezado animado -->
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola+!+👋;+Me+llamo+Leo!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Saludos+!+👋;+Soy Leonardo!;" />
 </p>
 
 <!-- Sobre mí -->
@@ -44,7 +44,7 @@ Me gusta explorar diversas tecnologías y fortalecer mis conocimientos con nuevo
       <img src="https://img.shields.io/badge/Leonardo%20Portela-26A5E4?logo=Facebook&logoColor=white" alt="Facebook" />
     </a>
     <a href="https://instagram.com/leo_r640">
-      <img src="https://img.shields.io/badge/leo_r640%20-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+      <img src="https://img.shields.io/badge/leo~r640%20-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://linkedin.com/in/leonardo-portela-9814a6308">
       <img src="https://img.shields.io/badge/Leonardo%20Portela-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
