@@ -15,7 +15,7 @@ Me gusta explorar diversas tecnologías y fortalecer mis conocimientos con nuevo
 <br>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,git,react,nodejs,express,mysql,py,bash,ubuntu" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=git,react,nodejs" alt="My Skills" />
   </a>
 </p>
 
