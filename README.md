@@ -4,7 +4,7 @@
 </p>
 
 <!-- Sobre mí -->
-<h2>📖 | Sobre mí</h2>  
+<h2>:octocat: | Sobre mí</h2>  
 💻 Soy Estudiante de Ingeniería de Software apasionado por el desarrollo web y en la exploración de diversas tecnologías. Me motiva la innovación y la mejora continua, y disfruto enfrentando desafíos que me permitan fortalecer mis habilidades técnicas y creativas.  
 <br><br>
 
@@ -12,23 +12,6 @@
     <img src="https://skillicons.dev/icons?i=git,react,nodejs" alt="My Skills" />
   </a>
 </p>
-
-<!-- GitHub Stats -->
-<h2>:octocat: | GitHub</h2>
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Leo64xl">
-        <img width="450" height="170" src="https://github-readme-stats.vercel.app/api?username=Leo64xl&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Leo64xl">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo64xl&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 <!-- Contacto -->
 <div align="center">
