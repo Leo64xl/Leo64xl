@@ -8,12 +8,6 @@
 💻 Soy Estudiante de Ingeniería de Software apasionado por el desarrollo web y en la exploración de diversas tecnologías. Me motiva la innovación y la mejora continua, y disfruto enfrentando desafíos que me permitan fortalecer mis habilidades técnicas y creativas.  
 <br><br>
 
-<!-- Tecnologías -->
-<h2>🛠️ | Tecnologías y herramientas </h2>
-Me gusta explorar diversas tecnologías y fortalecer mis conocimientos con nuevos aprendizajes. 🔎  
-<br></br>
-<br>
-<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,react,nodejs" alt="My Skills" />
   </a>
